@@ -14,7 +14,7 @@ setup(
         'numpy== 1.23.3',
         'scipy==1.9.3',
         'scikit-image==0.19.3',
-        'scikit-learn==1.1.2',
+        'scikit-learn==1.5.0',
         'shapely==1.8.5.post1',
         'opencv-python==4.6.0.66',
         'Pillow==9.3.0',
